@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently diving deeper into Python 🐍 and SQL 📊
+Currently diving deeper into Python, TypeScript, and MongoDB.
 
 Passionate about creating meaningful impact through technology and collaboration.
 
