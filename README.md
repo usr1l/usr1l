@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 Currently diving deeper into Python, TypeScript, and MongoDB.
 
