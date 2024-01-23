@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Currently diving deeper into JavaScript, TypeScript, and React.
+Currently diving deeper into NextJS, React/Redux, and Flask.
 
 Passionate about creating meaningful impact through technology and collaboration.
 
